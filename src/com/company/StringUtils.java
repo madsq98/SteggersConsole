@@ -29,7 +29,7 @@ public class StringUtils {
     }
 
     public static String exc5(String input) {
-        return "lorteopgave";
+        return "lorteopgave123";
     }
 
     public static String exc6(String input) {
